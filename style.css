@@ -156,7 +156,7 @@ margin-bottom: 30px;
     border: 1px solid
 }
 .collection{
-    background-image: url(/img/pic_background.png);
+    background-image: url(./img/pic_background.png);
     height: 547px;
     width: 1,440px;
 }
